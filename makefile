@@ -1,5 +1,5 @@
 README.md: guessinggame.sh
-	echo "#Guessing Game" > README.md
+	echo "# Guessing Game" > README.md
 	echo "" >> README.md
 	echo "Created on $$(date)." >> README.md
 	echo "" >> README.md
